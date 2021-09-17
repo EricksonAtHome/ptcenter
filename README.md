@@ -1,2 +1,3 @@
 # Package Tracking Center (Made in React)
-Tracking your well-known parcel delivery service like DHL, PostNL, TNT, UPS and more
+Follow your own package via your well-known parcel delivery service such as DHL, PostNL, TNT, UPS and more
+
