@@ -63,6 +63,8 @@ The app will now run on `http://localhost:3000`.
 - **CSS Modules**: For styling.
 - **IMG AI Modules**: For promeai.pro.
 
+![467859e23 Page](https://github.com/EricksonAtHome/ptcenter/blob/master/img/467859e23.png)
+
 ---
 
 ## Contribution
@@ -73,6 +75,7 @@ We welcome contributions! Please fork the repository and create a pull request w
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
+![69867423 Page](https://github.com/EricksonAtHome/ptcenter/blob/master/img/69867423.png)
 ---
 
 ## Contact
