@@ -79,4 +79,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ---
 
 ## Contact
-For support or inquiries, contact us at [support@ptc.com](mailto:support@ptc.com).
+For support or inquiries, contact us at [@ericksonholding](https://www.instagram.com/ericksonholding).
