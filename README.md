@@ -17,22 +17,22 @@ Follow these steps to install and set up the Package Tracking Center:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/package-tracking-center.git
+   git clone https://github.com/EricksonAtHome/ptcenter.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd package-tracking-center
+   cd ptcenter
    ```
 
 3. Install dependencies:
    ```bash
-   npm install
+   npm install or yarn install
    ```
 
 4. Start the development server:
    ```bash
-   npm start
+   yarn start
    ```
 
 The app will now run on `http://localhost:3000`.
