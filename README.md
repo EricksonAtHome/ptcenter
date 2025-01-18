@@ -61,6 +61,7 @@ The app will now run on `http://localhost:3000`.
 - **React Router**: For handling navigation.
 - **Axios**: To make API calls to tracking services.
 - **CSS Modules**: For styling.
+- **IMG AI Modules**: For promeai.pro.
 
 ---
 
