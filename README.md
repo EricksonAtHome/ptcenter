@@ -1,4 +1,4 @@
-# Package Tracking Center (PTC) V1.0.2.1 | coming 2026
+# Package Tracking Center (PTC) V1.0.2.1 | Expected date unknown coming 2026
 
 A React-based application to track your packages seamlessly across popular parcel delivery services like DHL, PostNL, TNT, UPS, and more.
 
